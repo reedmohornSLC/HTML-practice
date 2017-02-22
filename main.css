@@ -1,0 +1,27 @@
+header {
+  height: 80px;
+  width: 100%;
+  background-color: black;
+
+}
+
+.rectangle {
+ height: 100vh;
+ width: 75%;
+ margin-left: auto;
+ margin-right: auto;
+ background-color: white;
+}
+
+body{
+  background-color: gray;
+}
+
+.inner{
+  width: 100%;
+  height: 70px;
+
+  background-color: black;
+  position: relative;
+  top: 95%;
+}

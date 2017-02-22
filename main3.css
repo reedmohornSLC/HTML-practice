@@ -1,0 +1,49 @@
+
+header{
+  background-color: gray;
+  height: 70px;
+  width: 100%;
+  padding-left: 20px;
+  padding-top: 30px;
+
+
+}
+
+.randombox{
+  height: 100px;
+  width:100%;
+  background-color: white;
+  text-align: center;
+}
+
+.row1{
+  width: 100%;
+  height: 90px;
+  background-color: #4d79ff;
+}
+
+.row2{
+  width: 100%;
+  height: 90px;
+  background-color: #66ffff;
+}
+
+.row3{
+  width: 100%;
+  height: 90px;
+  background-color: #99ff99;
+}
+
+.row4{
+  width: 100%;
+  height: 90px;
+  background-color: yellow;
+
+}
+
+.minisquare{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+
+}
